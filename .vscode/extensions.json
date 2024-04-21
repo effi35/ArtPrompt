@@ -1,5 +1,7 @@
 {
     "recommendations": [
-        "visualstudioexptteam.vscodeintellicode"
+        "visualstudioexptteam.vscodeintellicode",
+        "ms-python.debugpy",
+        "ms-python.vscode-pylance"
     ]
 }

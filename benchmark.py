@@ -1,5 +1,5 @@
 import argparse
-from tqdm.auto import tqdm
+from tqdm.auto import tqdm # type: ignore
 import json
 
 from utils.model import load_model, genai, gemini_apis

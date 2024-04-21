@@ -1,5 +1,8 @@
 {
     "cSpell.enableFiletypes": [
         "csv (pipe)"
+    ],
+    "cSpell.words": [
+        "tqdm"
     ]
 }
